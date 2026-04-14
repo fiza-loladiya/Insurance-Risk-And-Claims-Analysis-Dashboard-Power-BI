@@ -7,7 +7,7 @@ This dashboard helps in understanding how insurance metrics such as **total poli
 
 The goal of this project was to transform raw insurance data into a clear, business-friendly dashboard that supports faster and better decision-making.
 
----
+
 
 ## Problem Statement
 Insurance companies deal with a large volume of customer, vehicle, and claims data. But raw data alone does not clearly show:
@@ -19,7 +19,7 @@ Insurance companies deal with a large volume of customer, vehicle, and claims da
 
 Without an interactive dashboard, it becomes difficult for stakeholders to quickly identify patterns, monitor claim exposure, and evaluate segment-wise insurance performance.
 
----
+
 
 ## Objective
 The objective of this project was to build an interactive Power BI dashboard that can:
@@ -30,9 +30,6 @@ The objective of this project was to build an interactive Power BI dashboard tha
 - support data-driven analysis for insurance risk monitoring
 - present complex insurance data in a simple and visually effective format
 
----
-
-## STAR Method Explanation
 
 ### Situation
 The insurance dataset contained information related to policies, claims, customer demographics, vehicle details, and coverage-related attributes. Since the data had multiple dimensions, it was difficult to manually identify meaningful patterns and risk-heavy segments from raw records alone.
@@ -77,7 +74,6 @@ The final dashboard transformed raw insurance data into meaningful visual insigh
 
 This project demonstrates my ability to work on **data cleaning, dashboard design, KPI reporting, segmentation analysis, and business storytelling** using Power BI.
 
----
 
 ## Key KPIs
 The dashboard tracks the following top-level metrics:
@@ -92,7 +88,6 @@ It also includes gender-based policy distribution:
 - **Male:** 18.7K
 - **Female:** 18.8K
 
----
 
 ## Dashboard Features
 
@@ -122,7 +117,6 @@ The dashboard uses a combination of KPI cards, donut charts, bar charts, trend c
 ### 4. Professional Dashboard Design
 The report is designed with a dark-themed layout, clear sectioning, and consistent visual formatting to improve readability and presentation quality.
 
----
 
 ## Business Questions Answered
 This dashboard helps answer important business questions such as:
@@ -135,8 +129,6 @@ This dashboard helps answer important business questions such as:
 - How does insurance exposure vary by coverage zone?
 - Is there any visible trend by car year?
 - How do education and family-driving factors relate to claim amount?
-
----
 
 ## Analysis Covered
 
@@ -193,7 +185,6 @@ The dashboard compares metrics by education level, such as:
 
 It also includes a matrix visual for deeper claim analysis by **education and marital status**.
 
----
 
 ## Key Insights
 Based on the dashboard view:
@@ -205,7 +196,6 @@ Based on the dashboard view:
 - Education and household-related attributes add another layer of insight into insurance segmentation.
 - Trend analysis by car year helps identify changes in exposure across vehicle age categories.
 
----
 
 ## Tools & Technologies Used
 - **Power BI**
@@ -215,7 +205,6 @@ Based on the dashboard view:
 - **Data Visualization**
 - **Dashboard Design**
 
----
 
 ## Skills Demonstrated
 - Data cleaning and preparation
@@ -227,8 +216,6 @@ Based on the dashboard view:
 - Risk and claims reporting
 - Visual storytelling
 
----
-
 ## What I Did in This Project
 In this project, I worked on:
 
@@ -239,7 +226,6 @@ In this project, I worked on:
 - enabling dynamic metric switching for better analysis
 - presenting insights in a structured and decision-friendly format
 
----
 
 ## Business Value
 This dashboard can help insurance stakeholders:
