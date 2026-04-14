@@ -7,7 +7,8 @@ This dashboard helps in understanding how insurance metrics such as **total poli
 
 The goal of this project was to transform raw insurance data into a clear, business-friendly dashboard that supports faster and better decision-making.
 
-
+### Total Policies View
+![Total Policies View](./Total%20Policies%20View.png)
 
 ## Problem Statement
 Insurance companies deal with a large volume of customer, vehicle, and claims data. But raw data alone does not clearly show:
@@ -19,7 +20,8 @@ Insurance companies deal with a large volume of customer, vehicle, and claims da
 
 Without an interactive dashboard, it becomes difficult for stakeholders to quickly identify patterns, monitor claim exposure, and evaluate segment-wise insurance performance.
 
-
+### Total Claim Amount View
+![Total Claim Amount View](./Total%20Claim%20Amount%20View.png)
 
 ## Objective
 The objective of this project was to build an interactive Power BI dashboard that can:
